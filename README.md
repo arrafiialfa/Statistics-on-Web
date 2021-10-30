@@ -1,3 +1,5 @@
+In Development !
+
 Application for computing statistic such as mean, deviation, etc
 I made this program mainly to help me with university especially on subject that relies on statistics
 
